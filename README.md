@@ -13,4 +13,4 @@ You also can connect to your app and execute this lines.
 
 ## Use it
 
-In OpenShift, choose a downloaded cartridge, with the following URL : http://cartreflect-claytondev.rhcloud.com/reflect?github=worldline/openshift-postgis-cartridge
+In OpenShift, choose a downloaded cartridge, with the following URL : http://cartreflect-claytondev.rhcloud.com/reflect?github=dimsum12/openshift-postgis-cartridge
